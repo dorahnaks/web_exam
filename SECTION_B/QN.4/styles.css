@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: darkslategrey;
+}
+.icons{
+    width: 5%;
+    height: 5%;
+    margin-left: 10px;
+}
+/* footer a{
+
+} */

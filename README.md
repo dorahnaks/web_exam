@@ -1,1 +1,21 @@
-# web_exam
+# SECTION A
+1. Answer: A
+2. Answer: D
+3. Answer: C
+4. Answer: C
+5. Answer: A
+6. Answer: B
+7. Answer: C
+8. Answer: B
+9. Answer: C
+10. Answer: B
+11. Answer: B
+12. Answer: A
+13. Answer: B
+14. Answer: B
+15. Answer: B
+16. Answer: A
+17. Answer: B
+18. Answer: B
+19. Answer: A
+20. Answer: C

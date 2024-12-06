@@ -1,0 +1,20 @@
+body{
+    background-color: coral;
+}
+.container{
+    display: grid;
+    width: 70%;
+    height: 60%;
+}
+.main-content{
+    flex: 3;
+    font-size: large;
+}
+.Sidebar{
+    position: fixed;
+    top: 10px;
+    right: 5px;
+    background-color: cadetblue;
+    width: 20%;
+    height:40%
+}

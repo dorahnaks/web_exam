@@ -1,0 +1,12 @@
+nav{
+    background-color: red;
+    padding: 20px;
+}
+nav a {
+    display: inline;
+    background-color:peachpuff;
+    text-decoration: none;
+    color: rgb(41, 40, 40);
+    margin-left: 20px;
+    padding: 10px 10px 10px 10px;
+}

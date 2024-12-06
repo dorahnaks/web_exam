@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+.grids{
+    display: grid;
+
+
+}
+.card1, .card2, .card3{
+    background-color: red;
+    color: white;
+    width: 50%;
+    flex-direction: column;
+}
+@media screen{
+}
